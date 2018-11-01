@@ -1,0 +1,63 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Trirong', serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Fruktur', cursive;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Tillana', cursive;
+*/
+
+body {
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+/* Basic Typography */
+
+h1 {
+    font-size: 45px;
+    /* font-weight: bolder; */
+}
+
+p {
+    font-size: 18px;
+    line-height: 150%;
+}
+
+/* Section One */
+
+.header1 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.thought1 {
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Section Two */
+
+.header2 {
+    font-family: 'Fruktur', cursive;
+}
+
+.thought2 {
+    font-family: 'Tillana', cursive;
+}
+
+/* Section Three */
+
+.header3 {
+    font-family: 'Bungee Shade', cursive;
+}
+
+.thought3 {
+    text-transform: capitalize;
+    font-family: 'Gloria Hallelujah', cursive;
+}
